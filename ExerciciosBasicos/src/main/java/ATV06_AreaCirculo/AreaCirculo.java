@@ -20,3 +20,5 @@ public class AreaCirculo {
         scanner.close();
     }
 }
+
+// Arrumando problema no github com "git config --global commit.date now"
