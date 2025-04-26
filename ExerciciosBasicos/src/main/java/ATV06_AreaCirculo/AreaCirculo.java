@@ -12,7 +12,6 @@ public class AreaCirculo {
 
         System.out.println("Insira o valor do Raio: ");
         raio = scanner.nextDouble();
-
         area = 2 * Math.PI * raio;
 
         System.out.printf("A área é: %.4f\n", area);
