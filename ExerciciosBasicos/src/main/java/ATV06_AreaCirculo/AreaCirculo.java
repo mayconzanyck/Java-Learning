@@ -11,6 +11,9 @@ public class AreaCirculo {
         double area, raio;
 
         System.out.println("Insira o valor do Raio: ");
+
+        //linha linha 
+        
         raio = scanner.nextDouble();
         area = 2 * Math.PI * raio;
 
