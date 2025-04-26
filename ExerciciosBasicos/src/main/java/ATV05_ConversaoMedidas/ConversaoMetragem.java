@@ -21,7 +21,6 @@ public class ConversaoMetragem{
         System.out.println("Conversão de " + metro + " metros para kilometros: " + km + "km.");
         System.out.println("Conversão de " + metro + " metros para milimetros: " + mm + "mm.");
 
-
         scanner.close();
     }
 }
